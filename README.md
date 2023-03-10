@@ -16,9 +16,7 @@ public class JvmComprehension {
 }
 ```
 
-![Рисунок по заданию](./Задача Понимание JVM.jpg)  
-
-<img src="Задача Понимание JVM.jpg" alt= “” width="50%" height="50%">
+<img src="Задача Понимание JVM.jpg" alt= “” width="60%" height="60%">
 
 # Задача "Исследование JVM через VisualVM"
 
@@ -33,4 +31,4 @@ public class JvmComprehension {
 
 ![Рисунок по заданию](./Исследование%20JVM%20через%20VisualVM.jpg)
 
-<img src="Исследование%20JVM%20через%20VisualVM.jpg" alt= “xvbcxcvb” width="50%" height="50%">
+<img src="Исследование%20JVM%20через%20VisualVM.jpg" alt= “” width="80%" height="80%">
